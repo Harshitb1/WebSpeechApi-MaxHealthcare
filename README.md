@@ -12,3 +12,4 @@ For this app I leveraged the Speech Recognition global variable, that lives on t
 2. Install with npm install
 3. Run server with node server.js
 
+# It supports multiple languages & Also FREE to use :)
